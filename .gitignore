@@ -2,3 +2,4 @@ accounts/__pycache__
 agenda/__pycache__
 contatos/__pycache__
 projeto-agenda-venv/
+agenda/senhas.py
